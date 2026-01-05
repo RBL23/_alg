@@ -7,6 +7,8 @@ This repository contains an optimized Python implementation of the Minimum Edit 
 * **Time Complexity:** $O(n \times m)$ where $n$ and $m$ are the lengths of the strings.
 
 ### Usage
-```python
+python
 distance = min_edit_distance_optimized('intentional', 'execution')
 print(f"Distance: {distance}")
+
+### [AI URL](https://gemini.google.com/app/1c9fc70bda502814?hl=id)
