@@ -16,13 +16,13 @@
 [習題 5](https://gemini.google.com/app/b37d17c8ccf9114c?hl=id)
 
 ## 習題 6
-[習題 6]()
+[習題 6](https://gemini.google.com/app/c367946beefb69ea?hl=id)
 
 ## 習題 7
-[習題 7]()
+[習題 7](https://gemini.google.com/app/42a69839a343165d?hl=id)
 
 ## 習題 8
-[習題 8]() 
+[習題 8](https://gemini.google.com/app/12aff809eabb27c5?hl=id) 
 
 ## 習題 9
 [習題 9]()
