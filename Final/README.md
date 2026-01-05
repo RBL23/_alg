@@ -1,38 +1,24 @@
-# 期末作業
+# [習題 1](https://gemini.google.com/app/1ec22dc81ace4f5c?hl=id)
 
-## 習題 1
-[習題 1](https://gemini.google.com/app/1ec22dc81ace4f5c?hl=id)
+# [習題 2](https://gemini.google.com/app/31bf0cd9c087a359?hl=id)
 
-## 習題 2
-[習題 2](https://gemini.google.com/app/31bf0cd9c087a359?hl=id)
+# [習題 3](https://github.com/RBL23/_alg/blob/main/Final/HW3.md)
 
-## 習題 3
-[習題 3](https://github.com/RBL23/_alg/blob/main/Final/HW3.md)
+# [習題 4](https://gemini.google.com/app/07c7ab08da2948f1?hl=id)
 
-## 習題 4
-[習題 4](https://gemini.google.com/app/07c7ab08da2948f1?hl=id)
+# [習題 5](https://gemini.google.com/app/b37d17c8ccf9114c?hl=id)
 
-## 習題 5
-[習題 5](https://gemini.google.com/app/b37d17c8ccf9114c?hl=id)
+# [習題 6](https://gemini.google.com/app/c367946beefb69ea?hl=id)
 
-## 習題 6
-[習題 6](https://gemini.google.com/app/c367946beefb69ea?hl=id)
+# [習題 7](https://gemini.google.com/app/42a69839a343165d?hl=id)
 
-## 習題 7
-[習題 7](https://gemini.google.com/app/42a69839a343165d?hl=id)
+# [習題 8](https://gemini.google.com/app/12aff809eabb27c5?hl=id) 
 
-## 習題 8
-[習題 8](https://gemini.google.com/app/12aff809eabb27c5?hl=id) 
+# [習題 9](https://github.com/RBL23/_alg/blob/main/Final/HW9/main.py)
 
-## 習題 9
-[習題 9](https://github.com/RBL23/_alg/blob/main/Final/HW9/main.py)
+# [習題 10](https://github.com/RBL23/_alg/blob/main/Final/HW10.py) 
 
-## 習題 10
-[習題 10]() 
+# [習題 11](https://gemini.google.com/app/3ffc21a61b958340?hl=id)
 
-## 習題 11
-[習題 11]()
-
-## 習題 12
-[習題 12]()
+# [習題 12](https://gemini.google.com/app/0d760bfb1cdc7f1c?hl=id)
 
