@@ -25,7 +25,7 @@
 [習題 8](https://gemini.google.com/app/12aff809eabb27c5?hl=id) 
 
 ## 習題 9
-[習題 9]()
+[習題 9](https://github.com/RBL23/_alg/blob/main/Final/HW9/main.py)
 
 ## 習題 10
 [習題 10]() 
